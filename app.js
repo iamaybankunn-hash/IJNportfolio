@@ -16,9 +16,9 @@ const SKILLS = [
 const TIMELINE = [
   {
     year: '2010 – Present',
-    role: 'IT Technician / Graphic Designer',
+    role: 'Clerk / IT Technician / Graphic Designer',
     company: 'Local Government Unit of Quezon, Bukidnon',
-    desc: 'Building full-stack web applications with Laravel and modern JavaScript frameworks. Leading development of enterprise-grade systems.',
+    desc: 'Building full-stack web and desktop applications with Laravel, VB.Net, MySQL and modern JavaScript frameworks. Leading development of enterprise-grade systems.',
     tags: ['Laravel', 'VB.Net', 'MySQL', 'Tailwind', 'Technician', 'Graphic Designer'],
     icon: '💻'
   },
